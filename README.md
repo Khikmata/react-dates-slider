@@ -1,4 +1,4 @@
-Компонент исторических дат на React, typescript, gsap, swiper.
+Компонент исторических дат на React, typescript, gsap, swiper. Собран с помощью Webpack
 
 Установка проекта:
 
